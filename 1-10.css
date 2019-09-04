@@ -60,9 +60,12 @@
 	.box:last-child{
 		margin: 0 auto;
 	}
+	.img{
+		text-align: center;
+	}
 	.flows{
 		width: 85%;
-		margin: 20px 50px;
+		margin: 20px auto;
 	}
 	.text-box{
 		width: 85%;
